@@ -9,7 +9,7 @@
 - 🌱 Atualmente estudando PHP e SQL
 - 📫 Contato: herick.marra1@gmail.com
 - ⚡ conhecido também como o flash da programação
-- 👨🏾‍💻 Dá uma olhadinha no meu site lá  <a href="https://herickmarra.com.br/">SITE</a>
+- 👨🏾‍💻 Dá uma olhadinha no meu site lá>  <a href="https://herickmarra.com.br/">SITE</a>
 
 <div align="center">
   <a href="https://github.com/srmarra">
