@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Herick Marra 👋
 
 
-**srmarra/SrMarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 Atualmente trabalho como desenvolvedor FullStack
 - 🌱 Atualmente estudando PHP e SQL
